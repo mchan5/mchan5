@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # 💫 About Me:
+-->
 🔭 Currently working on integrating cluster estimation with ROS2 
 
 Currently seeking S26 Internships 
