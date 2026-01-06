@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🌱 Interested in integrating autonomous systems with robotics 
-
 🤔 Currently working on integrating cluster estimation with ROS2
-
 🔭 Currently seeking S26 Internships 
 
 <br><br>
