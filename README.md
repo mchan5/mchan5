@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🤔 Learning PyTorch
 - 🔭 Currently seeking S26 Internships 
 
+[![](https://visitcount.itsvg.in/api?id=mchan5&icon=0&color=0)](https://visitcount.itsvg.in)
 <br><br>
 
 <!--
@@ -28,6 +29,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=mchan5&icon=0&color=0)](https://visitcount.itsvg.in)
+
 -->
 
