@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-# 💫 About Me:
+
 - 📖 Studying Mechatronics Engineering at the University of Waterloo
 - 🌱 Interested in integrating autonomous systems with robotics 
 - 🤔 Learning PyTorch
