@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-
-- 📖 Studying Mechatronics Engineering at the University of Waterloo
-- 🌱 Interested in integrating autonomous systems with robotics 
+## 💫 About Me:
+- 📖 Studying [Mechatronics Engineering at the University of Waterloo](https://uwaterloo.ca/future-students/programs/mechatronics-engineering)
+- 🌱 Interested in integrating autonomous systems with robotics
+- ✈️ Active Member on Waterloo Aerial Robotics Group autonomy subsystem, and Waterloo Rocketry controls subsystem
 - 🤔 Learning PyTorch
 - 🔭 Currently seeking S26 Internships 
 
