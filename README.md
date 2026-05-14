@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-## 💫 About Me:
+## About Me:
 - 📖 Studying [Mechatronics Engineering at the University of Waterloo](https://uwaterloo.ca/future-students/programs/mechatronics-engineering)
 - 🌱 Interested in integrating autonomous systems with robotics
 - ⚡ Active Member on [Waterloo Aerial Robotics Group](https://www.uwarg.com/) autonomy subsystem, and [Waterloo Rocketry](https://www.waterloorocketry.com/) controls subsystem
