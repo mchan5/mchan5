@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Current  
 - Researching Adaptive Control Barrier Functions @ [UTIAS Flight Systems and Controls Lab](https://flight.utias.utoronto.ca/)
 - Autonomy Project Manager @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
-- Software Developer @ [WATCloud] [https://cloud.watonomous.ca/]
+- Software Developer @ [WATCloud](https://cloud.watonomous.ca/)
 <br><br>
 
 ## Skills
