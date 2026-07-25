@@ -19,14 +19,18 @@ Here are some ideas to get you started:
 📖 Mechatronics Engineering Student @ [University of Waterloo](https://uwaterloo.ca/)
 
 ## Current  
-- Researching Adaptive Control Barrier Functions @ [Flight Systems and Control UTIAS](https://flight.utias.utoronto.ca/)
+- Researching Adaptive Control Barrier Functions @ [UTIAS Flight Systems and Controls Lab](https://flight.utias.utoronto.ca/)
 - Autonomy Project Manager @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
 - Software Developer @ [WATCloud] [https://cloud.watonomous.ca/]
 <br><br>
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthewchan5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthew.chan2@uwaterloo.ca) <a href="./Resume.pdf" target="_blank">
+## Skills
 
-[![](https://visitcount.itsvg.in/api?id=mchan5&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+* **Languages ⌨️:** `C/C++` `Python` `MATLAB` `Go` `SQL` `TypeScript/JavaScript`
+* **Robotics & AI 🤖:** `ROS 2` `Simulink` `PyTorch` `Gazebo` `Isaac Sim` `FreeRTOS`
+* **Tools 🛠️:** `AWS` `Docker` `Kubernetes` `Terraform` `SLURM` `Linux` `Git` <!-- Add any other specific tools you use here -->
 
+## Contact
+
+* 📫 Email: [matthew.chan2@uwaterloo.ca](mailto:matthew.chan2@uwaterloo.ca)
+* 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthewchan5/)
