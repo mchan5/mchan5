@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 ## Current  
 - Researching Adaptive Control Barrier Functions @ [Flight Systems and Control UTIAS](https://flight.utias.utoronto.ca/)
-- Software Developer Intern @ [A.U.G Signals](https://augsignals.com/)
 - Autonomy Project Manager @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
-- Software Developer @ [WATCloud] https://cloud.watonomous.ca/
+- Software Developer @ [WATCloud] [https://cloud.watonomous.ca/]
 <br><br>
 
 <!--
