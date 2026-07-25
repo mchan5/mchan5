@@ -1,4 +1,4 @@
-## Hey I'm Matthew Chan 👋
+## Hello, I'm Matthew!
 
 <!--
 **mchan5/mchan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-## About Me:
-- 📖 Studying [Mechatronics Engineering at the University of Waterloo](https://uwaterloo.ca/future-students/programs/mechatronics-engineering)
-- 🌱 Interested in integrating autonomous systems with robotics
-- ⚡ Active Member on [Waterloo Aerial Robotics Group](https://www.uwarg.com/) autonomy subsystem, and [Waterloo Rocketry](https://www.waterloorocketry.com/) controls subsystem
 
+📖 Mechatronics Engineering Student @ [University of Waterloo](https://uwaterloo.ca/)
 
+## Current  
+- Researching Adaptive Control Barrier Functions @ [Flight Systems and Control UTIAS](https://flight.utias.utoronto.ca/)
+- Software Developer Intern @ [A.U.G Signals](https://augsignals.com/)
+- Autonomy Project Manager @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
+- Software Developer @ [WATCloud] https://cloud.watonomous.ca/
 <br><br>
 
 <!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthewchan5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthew.chan0607@gmail.com) <a href="./Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthewchan5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthew.chan2@uwaterloo.ca) <a href="./Resume.pdf" target="_blank">
 
 [![](https://visitcount.itsvg.in/api?id=mchan5&icon=0&color=0)](https://visitcount.itsvg.in)
-
 -->
 
