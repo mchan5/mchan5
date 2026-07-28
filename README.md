@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-
 📖 Mechatronics Engineering Student @ [University of Waterloo](https://uwaterloo.ca/)
 
 ## Current  
@@ -23,7 +22,6 @@ Here are some ideas to get you started:
 - Autonomy Project Manager @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
 - Software Developer @ [WATCloud](https://cloud.watonomous.ca/)
 <br><br>
-
 ## Skills
 
 * **Languages ⌨️:** `C/C++` `Python` `MATLAB` `Go` `SQL` `TypeScript/JavaScript`
