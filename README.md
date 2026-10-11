@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Recent Activity  
 - Researching Adaptive Control Barrier Functions @ [UTIAS Flight Systems and Control Lab](https://flight.utias.utoronto.ca/)
-- Autonomy Project Manager @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
+- Autonomy Lead @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
 - Software Developer @ [WATCloud](https://cloud.watonomous.ca/)
 - Won 1st Place and $4k at North America's largest robotics hackathon 
 
