@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 📖 Mechatronics Engineering Student @ [University of Waterloo](https://uwaterloo.ca/)
 
 ## Recent Activity  
+- Incoming @ AMD
 - Researching Adaptive Control Barrier Functions @ [UTIAS Flight Systems and Control Lab](https://flight.utias.utoronto.ca/)
 - Autonomy Lead @ [Waterloo Aerial Robotics Group](https://www.uwarg.com/) 
 - Software Developer @ [WATCloud](https://cloud.watonomous.ca/)
